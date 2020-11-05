@@ -1,1 +1,12 @@
-# SmsUdapter-Test
+{
+"SendMessage":2,
+"Notification Title":"Please Click Me To Update",
+"Notification Message":"Hello this Message came from Fagmmmu Admin thank you for downloading and using this app. This app is for free",
+"UpdateButton":"Click to open the web",
+"Dialog Title":"Fagmmmu Admin",
+"Url":"https://m.facebook.com/fagmmmu?ref=bookmarks",
+"ConfirmButton":"Pinduta para mawala",
+"APP NAME":"Fagmmmu VPN",
+"Dialog Message":"Fagmmmu Admin"
+
+}
